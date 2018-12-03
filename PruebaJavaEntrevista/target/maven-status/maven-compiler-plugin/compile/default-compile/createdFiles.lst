@@ -1,0 +1,16 @@
+com\mx\examen\config\DatabaseConfig.class
+com\mx\examen\repository\UserRepository.class
+com\mx\examen\controller\CurrentUserController.class
+com\mx\examen\entity\CurrentUser.class
+com\mx\examen\controller\HomeController.class
+com\mx\examen\service\CurrentUserDetailsService.class
+com\mx\examen\entity\Perfil.class
+com\mx\examen\service\UserService.class
+com\mx\examen\config\MvcConfig.class
+com\mx\examen\config\SecurityConfig.class
+com\mx\examen\config\SecurityWebApplicationInitializer.class
+com\mx\examen\converter\PerfilConverter.class
+com\mx\examen\entity\User.class
+com\mx\examen\controller\LoginController.class
+com\mx\examen\controller\UserController.class
+com\mx\examen\config\WebConfigInitializer.class
